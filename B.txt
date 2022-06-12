@@ -1,3 +1,4 @@
 Change for 'feature-1'
 Change for 'feature-2'
 Change for 'feature-4'
+Change for 'feature-6'
