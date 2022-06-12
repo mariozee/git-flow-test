@@ -1,1 +1,2 @@
 Change for 'feature-1'
+Change for 'feature-2'
